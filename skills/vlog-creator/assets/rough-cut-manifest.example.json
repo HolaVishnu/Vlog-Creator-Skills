@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "sample_rate": 48000
+  },
+  "clips": [
+    {
+      "id": "A001",
+      "path": "media/arrival.mp4",
+      "in": 1.25,
+      "out": 6.75
+    },
+    {
+      "id": "A002",
+      "path": "media/market.mp4",
+      "in": 0.0,
+      "out": 4.5
+    }
+  ]
+}
