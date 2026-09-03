@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vlog Creator"
+  short_description: "End-to-end vlog automation"
+  default_prompt: "Use $vlog-creator to analyze my raw media, build the story, create the timeline, and render a finished vlog when the available tools support it."
+
+policy:
+  allow_implicit_invocation: true
